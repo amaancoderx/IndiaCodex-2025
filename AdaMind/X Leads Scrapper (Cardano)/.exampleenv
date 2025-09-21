@@ -1,0 +1,5 @@
+APIFY_TOKEN=
+SHEET_CREDENTIALS=
+SHEET_ID=
+SHEET_TAB=  # optional; default "Leads"
+RESULTS_PER_REQUEST=100  # optional

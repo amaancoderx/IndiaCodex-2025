@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "cardano-data-scrapping",
+  "private_key_id": "8a6c7296bb2c4b64d2d1020261c66631145bb4c6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIiSMrQGE9asWp\nxFafkZ2/xme3PAJ94ytc8wllPAP6Kkeq04NCOT9PJwIJGR1P09/oCfSzMyWnz5tg\nuLbQytF7Y/xRf8OKGVo5fpW9tzzdudjRxupPkEt7HbTI4KFe1Xp8MGnNjX73Rn2N\n1bpcnO43W9LQI1pIvV/jhLpnQynVo65qSJH3rLRTLeT6hoIK+tVga+RS/exjy6qn\nu352oyldLhUxpiLhOngWN9VvEUBqnQuTwiH+Acrh2/VixiFpO50y6OzrFWxElOGg\n+UG2v0/7eulYudHSpiq4BgvG9vpTRdL0oed9K4/4qQyrdiY633jKpMMCVS5W+a8e\ngUVIi6eJAgMBAAECggEAXGUPHqjxhJ4yx2bucGPjtk3gUITmMwFdY9yYmhueS396\neMMuaW8986ap4e4/2p1ovx0DMSOiOGDHmrdQh//Cp+LoCNbgjbrjnrTrojcQZKpx\nsym+oHz/whBsUNdqkmqynhCiVvJYKu8//v8X9/7YJQp6Jar8OKKEUSxAxD4mQsdv\nyNtmfrdA7OwjsLAkKnjszRipk8q+i6dKzcN99BPfBfY+V7YIFzP7ef85XPh13Llk\nBBSaP0NGBkmFvhXRpdIEaNItaVhKiabBYqX+SR6mePdmIkFrYycTRXfPsU+otnYo\nDQ+M9o6JfOV65e/ufgUpDpHkvt8WrrrJqDG+WODErwKBgQDznsX1VzqQ+Fhavgvd\npNELNxL9LkTr/aXlgfPg+YYJbt8jKWzqT3aaxHec/NaYJp7xZ3a3IAMhKM0j/9Om\nfUiKTYCmCs/zs48U/lKF8CckDRIFK7VUc75vjVCTjrIcLZarH9E/eVH9bhQdLEqL\nWOEF9uXH5dVI54CQXkLlypk+uwKBgQDSueH4Z78eL5l/SuFqLdndTgpto+H6Pqqe\nKR8xJHfpVEa6Q3/F5aagV0S1bbDL7EAw7JkF5x31F7Ca3gXkm7lnaDPGO9Dl9sUY\nJFmeDgxawCIZNHglhBYOVzjrwyiDOioEAVy/e0FW7aGqyFeFp3FoDtn1sQunGym+\nuV1RUvZIiwKBgECi44rQde14tph8y9EmpYAAQL2DxS2Hwrg93mLWUUW3cOR3XTpd\nku5FKicwvg7oUEtkVA8KI0ps9OCUQ6dsng5zuapUPBBAl7nOMD7xFLFv9lQA4L9j\nZidaqwI7Xe4z+kG002Ov4J0I07VZxv1pu2pFs3lx9UC+i1HCcKVfN4F5AoGADROx\n/Tta9eGYUfjwoik0QvKL3R/1bxUie2wr3l3X/yfWt8pmjH5i58JipiundBA2L5MP\nL/mWt1YABKxQi05KpCsoQ14E6bB1rLjcwt02UQ9pTk0eQ529zKgHBUJ4KiSa5OK8\nwblBZcabaMDEBaxNclqxlfils3oRDh/stZZDaF8CgYEAjf0JCqG+sosX8KUS9Fip\nFikSc6FdlX9X60joJn4ZzFL9AdAg/+Mk307pxF9D4NrCAyWijbiCDIHYnSHIWwC1\nMEfqzY+CXedLOOjghBFwyFv0JILFP1UNjIRZpBG4vs1OkvXygv/UlhqN1kR6hd1p\nahl+znbl3jHufRebSX3WsyI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets-writer@cardano-data-scrapping.iam.gserviceaccount.com",
+  "client_id": "102216651303328096336",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets-writer%40cardano-data-scrapping.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+
