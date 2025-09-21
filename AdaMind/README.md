@@ -115,7 +115,7 @@ User clicks the Scrape Leads button to trigger the backend agent.
 The app automatically searches X.com for Cardano-related profiles matching the topic.
 Relevant data is collected: Name, Username, Handle, Bio/Description, Follower count.
 
-<img width="1870" height="806" alt="Screenshot (480)" src="https://github.com/user-attachments/assets/305daf60-f424-4959-954a-06a091513cc0" />
+<img width="1891" height="806" alt="Screenshot (481)" src="https://github.com/user-attachments/assets/f8b5c8fe-f8b6-479c-90da-3267ffff3127" />
 
 
 # 5 Store Leads in Google Sheet
